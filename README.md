@@ -1,38 +1,34 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Kondwani 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Economics+%26+Data+Analytics];[BSc+Economics+%7C+Power+BI+Certified]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/kondwani-j-banda-4013a63b8 "><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:kondwanijosephbanda@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I'm an Economics graduate and Data Analyst passionate about helping businesses and organizations make sense of their data. With a foundation in economic thinking and a drive toward evidence-based policy, I enjoy transforming complex, messy datasets into clear stories and actionable insights that inform smarter decisions.
+My focus is on building dashboards that actually get used, automating repetitive tasks to free up teams for more meaningful work, and creating models that help businesses and policymakers plan for the future. As an aspiring policy analyst, I'm particularly interested in how data can bridge the gap between raw numbers and real-world policy solutions.
+When I'm not working with data, I enjoy reading, making music, and spending time with friends and family. I live for the "aha!" moment when data reveals something new — something that could change how a business operates or how a policy is shaped.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://K-Banda-gif.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** [Building an interactive dashboard to determine the optimal exchange rate between the Zambian Kwacha and USD using Power BI.]  
+- **Project B:** [ Building a healthcare patient data pipeline using SQL Server and Python.]
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [Consumer Behavior & Psychology with Alex Genadinik.]
+- [The STATA OMNIBUS:Regression and Modelling with STATA with Packt.]
 
 ## 🛠️ Technical Skillset
 
