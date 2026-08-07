@@ -22,8 +22,8 @@ When I'm not working with data, I enjoy reading, making music, and spending time
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Building an interactive dashboard to determine the optimal exchange rate between the Zambian Kwacha and USD using Power BI.]  
-- **Project B:** [ Building a healthcare patient data pipeline using SQL Server and Python.]
+- **Project A:** Building an interactive dashboard to determine the optimal exchange rate between the Zambian Kwacha and USD using Power BI.  
+- **Project B:** Building a healthcare patient data pipeline using SQL Server and Python.
 
 ## 🌱 Currently Learning 
 
